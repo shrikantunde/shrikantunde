@@ -17,6 +17,7 @@
   Backend - C#, .net Web API, Python, Flask, Node Js Express
   DB - Mongo, SQL, Firebase
   Cloud - AWS, AZURE, 
+  Mobile App - React Native
 
 - 📫 How to reach me ..mail me - shrikant9970840920@gmail.com or Whats app me - +91 7758 000 501
 
