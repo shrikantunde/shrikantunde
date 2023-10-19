@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrikant Unde
-- Creator, Writer and Mentor
+- Developer, Creator and Mentor
 - Help companies to build product from start to end. 
 - Interested in Product Development, SAAS Product Dev , EdTech, SoftTech, AgriTech.
 - 👀 Expertise in  Sotware development, Fullstack Web Development, Mobile App Development, Frontend development, UI Architecture and System design 
